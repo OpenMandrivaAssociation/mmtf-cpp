@@ -28,3 +28,4 @@ A binary encoding of biological structures library.
 %ninja_install -C build
 
 %files
+%{_includedir}/mmtf/*
