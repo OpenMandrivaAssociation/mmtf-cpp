@@ -28,7 +28,7 @@ A binary encoding of biological structures library.
 
 %build
 
-%cmake -G Ninja 
+%cmake -G Ninja \
       -DCMAKE_INSTALL_PREFIX=/usr \
       -DCMAKE_BUILD_TYPE=Release 
 
