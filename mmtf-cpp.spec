@@ -1,3 +1,5 @@
+# DIRTY! FIX ME!
+
 Name:           mmtf-cpp       
 Version:        1.0.0
 Release:        1
@@ -38,7 +40,7 @@ A binary encoding of biological structures library.
 %ninja_install -C build
 
 %files
-#{_includedir}/mmtf/*
+#empty, add here sometings. Maybe readme?
 
 %files devel
 %{_includedir}/mmtf*
