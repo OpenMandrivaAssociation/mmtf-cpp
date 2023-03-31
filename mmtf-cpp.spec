@@ -2,7 +2,7 @@
 
 Name:           mmtf-cpp       
 Version:        1.0.0
-Release:        1
+Release:        2
 Summary:        The pure C++ implementation of the MMTF API, decoder and encoder
 License:        MIT
 Group:          Development/C++
